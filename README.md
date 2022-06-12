@@ -1,2 +1,2 @@
-# RestfulApi-WebProject
- Restful Api build using Node+Express and MongoDb for Semester Project of Web Development
+# Restful-API-BusesData
+ This API built by using Node+Express+MongoDB
